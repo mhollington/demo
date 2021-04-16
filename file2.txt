@@ -1,4 +1,8 @@
-123 This is a text file
+<<<<<<< HEAD
+This is a text file 123
+=======
+This is a text file 123
+>>>>>>> 5f3bfc34d660ce0f538c2836ed6e5303fbca0601
 
 
 
